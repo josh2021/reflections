@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A: This means each save will track all files to a new save state and save the old save state as well.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area just gets things started or something. I have no idea.
