@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A: This means each save will track all files to a new save state and save the old save state as well.
