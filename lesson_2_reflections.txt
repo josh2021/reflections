@@ -5,3 +5,23 @@ A: This means each save will track all files to a new save state and save the ol
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: The staging area just gets things started or something. I have no idea.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+A: It slows down how many times you commit something. That is for sure.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: Branches are a great help for adding experimental features without messing up your code.
+
+How do the diagrams help you visualize the branch structure?
+
+A: Thye help me understand what is really happening.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: It combines two branches. The diagram helps us understand what happened.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: It saves a lot of time and work. Also, clarifies and avoids errors.
