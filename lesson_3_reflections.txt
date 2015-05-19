@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+A: When your computer is not your own or when it is breaking down or something. Just to be safe, keep it in the cloud.
+
